@@ -1,7 +1,6 @@
 # Import pynput for the Keys
-import pynput
 
-from pynput.keyboard import Key, Controller, Listener
+from pynput.keyboard import Key, Listener
 
 count = 0
 keys = []
