@@ -9,6 +9,8 @@
   </a>
 </p>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c0dd7ce904c44cbd939317b58fbed958)](https://www.codacy.com/manual/StackNeverFlow/Keylogger?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=StackNeverFlow/Keylogger&amp;utm_campaign=Badge_Grade)
+
 > A Keylogger in Python that write all keys in 'log.txt'
 
 ## Install
